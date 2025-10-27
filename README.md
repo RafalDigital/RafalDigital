@@ -4,7 +4,7 @@
 <div class="yellow circle"></div>
 <div class="green circle"></div>
 </div>
-
+<h2 style="color: black;">tes</h2>
 <div class="main-name">
             <h1>Rafif Fadhil Dharmawan</h1>
             <p>Frontend Developer | Web Enthusiast</p>
