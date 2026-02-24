@@ -42,11 +42,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafalDigital&radius=15&theme=github-dark&area=true&order=5&color=ffffff&title_color=ffffff&point=fcba2b&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false&line=fcba2b&bg_color=1d1e22&area_color=ff5d56" width="100%" alt="activity-graph graph"  />
 </div>
 
----
+###
 
 <img src="https://raw.githubusercontent.com/RafalDigital/RafalDigital/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafalDigital/RafalDigital/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafalDigital/RafalDigital/output/pacman-contribution-graph.svg">
