@@ -35,7 +35,7 @@
 ![]()<br/> -->
 
 
-<div align="center">
+<div display="flex" align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RafalDigital&theme=dark&hide_border=false">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=RafalDigital&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=RafalDigital&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
