@@ -1,5 +1,5 @@
 
-# nanti buat wlcome dan penjelasan diri
+# 
 
 ---
 #### Tech Stack
@@ -26,10 +26,3 @@
   --green: #28c73f;
   --white: #ffffff;
   --gray: #a0a0a0; -->
-
-<style>
-    img {transition: .4s cubic-bezier(0.68,-0.55,0.27,1.55);}
-    img:hover {
-        transform: translateY(-2px);
-    }
-</style>
