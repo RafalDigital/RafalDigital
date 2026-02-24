@@ -39,7 +39,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=RafalDigital&theme=dark&hide_border=false">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=RafalDigital&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=RafalDigital&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafalDigital&radius=15&theme=github-dark&area=true&order=5&color=ffffff&title_color=ffffff&point=fcba2b&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false&line=fcba2b&bg_color=1d1e22&area_color=ff5d56" width="250px" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafalDigital&radius=15&theme=github-dark&area=true&order=5&color=ffffff&title_color=ffffff&point=fcba2b&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false&line=fcba2b&bg_color=1d1e22&area_color=ff5d56" width="300px" alt="activity-graph graph"  />
 </div>
 
 ---
