@@ -15,6 +15,11 @@
 #### Social
 ![https://www.instagram.com/rafaldigital/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+---
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=RafalDigital&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RafalDigital&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafalDigital&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <!-- --primary: #1d1e22;
   --secondary: #22232e;
   --option1: #26272d;
@@ -26,3 +31,6 @@
   --green: #28c73f;
   --white: #ffffff;
   --gray: #a0a0a0; -->
+
+
+
