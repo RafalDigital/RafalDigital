@@ -1,5 +1,5 @@
 
-<h2 color="#fcba2b" align="left">HI, Welcome To my Github Profile</h2>
+<h1 color="#fcba2b" align="left">HI, Welcome To my Github Profile</h1>
 
 <p align="left">My name is Rafif Fadhil Dharmawan and I'm a Junior Frontend Developer from Indonesia.</p>
 
